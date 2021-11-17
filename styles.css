@@ -1,0 +1,25 @@
+body {
+    color: black;
+    background-color: white;
+    font-family: papyrus, fantasy;
+    font-size: 1.2em;
+}
+h1{
+    color: blue;
+    
+}
+h2 {
+    color: green;
+}
+#html-anatomy-heading {
+    color: red;
+}
+.underline {
+    text-decoration: underline;
+}
+.bold {
+    font-weight: bold;
+    font-size: 0.8em;
+
+
+}
